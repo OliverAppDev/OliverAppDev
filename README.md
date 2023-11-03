@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-## 🚀 Stats: 
-### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=OliverAppDev&theme=holi" alt="Anurag's GitHub stats"></a>
-### <a href="https://github.com/gma1k" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAppDev&layout=compact&theme=holi" alt="Top Langs"></a>
